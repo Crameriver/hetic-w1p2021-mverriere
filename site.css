@@ -1,0 +1,35 @@
+/* general styles */
+
+
+
+body{background-color: rgb(255, 215, 0);
+margin: 0;
+margin-top: 0px;}
+#redman header{
+    background-color: black;
+    padding: 27px;
+    font-size: 27px;
+    border: 6px gray;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+    background-color: black;
+    border: 1px rgb(255, 215, 0)
+}
+h2{text-align: center}
+
+.logo1{
+    float: right; 
+}
+.logo2{
+    float: left;
+}
+p{text-align: center}
+iframe{display: block;
+margin: 0% auto;}
+
+footer{
+    font-size: 20px;
+}
