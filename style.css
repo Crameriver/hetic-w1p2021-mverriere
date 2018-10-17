@@ -1,0 +1,51 @@
+/* general styles */
+
+
+
+body{background-color: rgb(255, 215, 0);
+    margin: 0;
+    margin-top: 0px;}
+#redman header{
+    background-color: rgb(0, 0, 0);
+    padding: 27px;
+    font-size: 27px;
+    border: thick double;
+    border-color: black;
+}
+
+h1{
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 215, 0);
+    margin: 0% auto;
+    border: solid;
+    border-color: darkorange;
+    padding: 15px;
+    width: 158px;
+}
+h2{
+    font-size: 25px;
+    text-align: center}
+.logoj{
+    float: left;
+}
+.logo1{
+    float: right; 
+}
+.logo2{
+    float: left;
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+    text-align: center}
+iframe{
+    display: block;
+    margin: 0% auto;}
+
+footer{
+    font-size: 20px;
+}
